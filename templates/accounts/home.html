@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+	{% if user.is_authenticated %}
+				
+	{% elif %}
+		<h2>Log In</h2>
+		{% crispy form %}{% csrf_token %}	
+	{% endif %}
+
+{% endblock %}
+
+
