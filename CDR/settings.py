@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'crispy_forms',
 
     'accounts',
+    'packages',
 ]
 
 AUTH_USER_MODEL = 'accounts.MyUser'
