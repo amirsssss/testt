@@ -2,10 +2,10 @@
  "name": "flare",
  "children": [
   {
-   "name": "analyticsssssssssssssssssssss",
+   "name": "امیر",
    "children": [
     {
-     "name": "clusterrrrrrrrrrrrrrrrrrrr",
+     "name": "داوود",
      "children": [
       {"name": "AgglomerativeCluster", "value": 3938},
       {"name": "CommunityStructure", "value": 3812},
@@ -14,7 +14,7 @@
      ]
     },
     {
-     "name": "graphhhhhhhhhhhhh",
+     "name": "دوروش",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
       {"name": "LinkDistance", "value": 5731},
@@ -24,7 +24,7 @@
      ]
     },
     {
-     "name": "optimizationnnnnnnnnnnnnnnnnnnnnnnnnn",
+     "name": "سعیدی",
      "children": [
       {"name": "AspectRatioBanker", "value": 7074}
      ]
