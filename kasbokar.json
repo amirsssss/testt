@@ -1,0 +1,38 @@
+{
+    "name":"کل",
+    "children":[
+        {"name":"پوز",
+        "children":[
+            {"name":"کسب و کار", "children": [
+                {"name":"تجاری","children":[
+                    {"name":"افق","value":50},
+                    {"name":"سایر","value":50}
+                    ]
+                },
+                {"name":"سازمانی","value":50},
+                {"name":"خرد","children":[
+                    {"name":"آلین","value":50},
+                    {"name":"حضوری","value":50},
+                    {"name":"تلفنی","value":50}
+                ]}
+            ]},
+            {"name":"سایر", "value": 5}
+        ]},
+        {"name":"درگاه",
+            "children":[
+            {"name":"کسب و کار", "children": [
+                {"name":"تجاری","children":[
+                    {"name":"پرداخت یار - واسط","value":50},
+                    {"name":"سایر","value":50}
+                    ]
+                },
+                {"name":"سازمانی","value":50},
+                {"name":"خرد","children":[
+                    {"name":"آلین","value":50},
+                    {"name":"حضوری","value":50},
+                    {"name":"تلفنی","value":50}
+                ]}]},
+            {"name":"سایر", "value": 5}
+        ]}
+    ]
+}
