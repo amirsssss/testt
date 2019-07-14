@@ -5,18 +5,18 @@
         "children":[
             {"name":"کسب و کار", "children": [
                 {"name":"تجاری","children":[
-                    {"name":"افق","value":50},
-                    {"name":"سایر","value":50}
+                    {"name":"افق","value":0.612},
+                    {"name":"سایر","value":5.327}
                     ]
                 },
-                {"name":"سازمانی","value":50},
+                {"name":"سازمانی","value":5.546},
                 {"name":"خرد","children":[
-                    {"name":"آلین","value":50},
-                    {"name":"حضوری","value":50},
-                    {"name":"تلفنی","value":50}
+                    {"name":"آلین","value":2.835},
+                    {"name":"حضوری","value":0.371},
+                    {"name":"تلفنی","value":1.002}
                 ]}
             ]},
-            {"name":"سایر", "value": 5}
+            {"name":"سایر", "value": 84.307}
         ]},
         {"name":"درگاه",
             "children":[
