@@ -22,14 +22,14 @@
             "children":[
             {"name":"کسب و کار", "children": [
                 {"name":"تجاری","children":[
-                    {"name":"پرداخت یار - واسط","value":50},
-                    {"name":"سایر","value":50}
+                    {"name":"پرداخت یار - واسط","value":0.5},
+                    {"name":"سایر","value":33}
                     ]
                 },
-                {"name":"سازمانی","value":50},
-                {"name":"خرد","value":100}
+                {"name":"سازمانی","value":62.6},
+                {"name":"خرد","value":0.5}
                     ]},
-            {"name":"سایر", "value": 5}
+            {"name":"سایر", "value": 3.4}
         ]}
     ]
 }
